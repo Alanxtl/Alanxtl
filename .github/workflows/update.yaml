@@ -9,18 +9,18 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
+    steps:      
       - uses: actions/checkout@v4
       - name: Generate 3D contribution profile
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: ./3d-profile-settings.json
 
       - name: Move files
         run: |
-          mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
+          mv profile-3d-contrib/profile-green-animate.svg ./profile-3d.svg
+          mv profile-3d-contrib/profile-night-view.svg ./profile-3d-night.svg
           rm -rf ./profile-3d-contrib
 
       - name: Download github-contrib-stats
