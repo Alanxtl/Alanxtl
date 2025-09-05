@@ -24,7 +24,7 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=Obsidian-Notes,nmap,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=alanxtl.github.io,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&theme=default&layout=compact&exclude_repo=Obsidian-Notes,nmap,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
     <img height="195" alt="Alan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&theme=default&layout=compact&exclude_repo=Obsidian-Notes,nmap,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
   </picture>
