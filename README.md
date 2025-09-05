@@ -20,7 +20,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alanxtl&count_private=true&include_all_commits=true&show_icons=true&custom_title=alanxtl%27s%20GitHub%20stats&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alanxtl&count_private=true&include_all_commits=true&show_icons=true&custom_title=alanxtl%27s%20GitHub%20stats" />
-    <img height="200" alt="Alan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alanxtl&count_private=true&include_all_commits=true&show_icons=true&custom_title=alanxtl%27s%20GitHub%20stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast&theme=tokyonight" />
