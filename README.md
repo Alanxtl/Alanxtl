@@ -25,6 +25,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxtl&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
-    <img height="200" alt="Alan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxt&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
+    <img height="200" alt="Alan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanxt&show_icons=true&theme=tokyonight&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,alanxtl.github.io,MyWechat,blog,intranet-api,resume,notes,systematic-literature-review-of-commercial-participation-in-open-source-software,forecast" />
   </picture>
 </p>
