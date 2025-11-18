@@ -25,6 +25,6 @@
   <picture width="30" >
     <source media="(prefers-color-scheme: dark)" width="400" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alanxtl&theme=transparent&date_format=%5BY.%5Dn.j&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" width="400" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alanxtl&theme=transparent&date_format=%5BY.%5Dn.j&count_private=true&include_all_commits=true&hide_border=true" />
-    <img alt="Alan's GitHub Stats" src="[https://streak-stats.demolab.com](https://github-readme-streak-stats.herokuapp.com)/?user=alanxtl&theme=transparent&date_format=%5BY.%5Dn.j&count_private=true&include_all_commits=true&hide_border=true" />
+    <img alt="Alan's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=alanxtl&theme=transparent&date_format=%5BY.%5Dn.j&count_private=true&include_all_commits=true&hide_border=true" />
   </picture>
 </p>
