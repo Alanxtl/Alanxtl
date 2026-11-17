@@ -7,6 +7,7 @@ vllm semantic-router workgroup Member</br>
   >   apache/dubbo-go-pixiu,</br>
   >   oceanbase/powercontext,</br>
   >   vllm-project/semantic-router,</br>
+  >   kvcache-ai/Mooncake,</br>
   >   LMCache/LMCache</br>
   >   Tencent/YOLO-Master,</br>
   >   traefik/traefik,</br>
